@@ -27,12 +27,12 @@
 
 1. **Клонируйте репозиторий:**
 ```bash
-git clone https://github.com/your-username/you-talk-blog.git
+git clone https://github.com/Anwerst/Frontend-Project.git
 ```
 
 2. **Откройте проект:**
 ```bash
-cd you-talk-blog
+cd Frontend-Project
 ```
 
 3. **Запустите локальный сервер:**
